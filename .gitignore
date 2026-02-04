@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Envs
+.venv/
+venv/
+ENV/
+.env
+.env.*
+
+# Logs
+*.log
+
+# Audio artifacts
+*.mp3
+
+# OS
+.DS_Store
